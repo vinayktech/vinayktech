@@ -3,7 +3,7 @@
 
 **Mr VINAY KUMAR K** is a ✨ FULL STACK DEVELOPER✨ repository because its `README.md` (this file) appears on your GitHub .
 
-<h1>i'm from Ballari 
+<h1>i'm from Ballari </h1>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
