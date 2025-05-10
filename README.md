@@ -4,7 +4,7 @@
 **Mr VINAY KUMAR K** is a ✨ FULL STACK DEVELOPER✨ with Java,Sql,Web Technologies `README.md` (this file) appears on your GitHub .
 
 <h1>i'm from Ballari </h1>
-//Here are some ideas to get you started:
+
 <h3>Java Developer</h3>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
